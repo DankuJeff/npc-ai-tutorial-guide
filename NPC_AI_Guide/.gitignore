@@ -1,0 +1,21 @@
+# Unreal Engine
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+
+# API Keys — never commit
+Config/Secrets.ini
+
+# UE5 binary content — unreadable without the engine, excluded entirely
+Content/
+
+# OS
+.DS_Store
+Thumbs.db
