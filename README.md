@@ -4,7 +4,7 @@ A tutorial NPC that reads what the player is doing in real time, decides what to
 
 Built in Unreal Engine 5.7.4.
 
-> **Video demo:** _[coming soon, link added at LinkedIn post time]_
+> **Video demo:** https://www.linkedin.com/posts/tylermunstock_unrealengine-claudeapi-elevenlabs-activity-7455304555379970048-U1W9/
 
 ---
 
